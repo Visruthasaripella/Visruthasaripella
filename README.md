@@ -14,7 +14,7 @@
 - 🎓 Graduate Student at Virginia Tech
 - 💼 Software Engineer with 2 years of experience
 - 🌱 Enthusiastic about AI/ML innovations, scalable cloud systems, and dynamic full-stack development.
-- 🚀 Passionate about developing AI/ML-driven solutions, designing scalable cloud architectures, and creating dynamic full-stack webapplications.
+- 🚀 Passionate about developing AI/ML-driven solutions, designing scalable cloud architectures, and creating dynamic full-stack web-applications.
 
 ### 🛠️ Technical Skills
 
