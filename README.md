@@ -2,7 +2,6 @@
 <h3 align="center">Platform Engineer | Computer Networks | Harness Engineering</h3>
 
 <p align="center">
-  <a href="https://www.visrutasaripella.com/" target="_blank">Portfolio</a> •
   <a href="mailto:visrutasaripella@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/visruta-saripella/">LinkedIn</a>
 </p>
